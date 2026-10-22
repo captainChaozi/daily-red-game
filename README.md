@@ -10,3 +10,6 @@ Daily Red is a free browser game I built: every day you pick six level-100 Pokem
 Play it here: https://daily-red.app/
 
 Disclosure: I'm the developer of Daily Red.
+
+## More Pokémon fan projects I made
+- [PokéBonk Wiki (BonkDex)](https://pokebonk.info/) - a fan wiki for the PokéBonk browser survivor game with a Pokédex, starter and boss guides, a build planner and a type chart. Also built by me; unofficial and not affiliated with Nintendo, The Pokémon Company or the game's creator.
